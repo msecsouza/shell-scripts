@@ -10,7 +10,7 @@ Aqui você vai encontrar scripts Bash que resolvem diversos problemas e tarefas,
 - Manipulação de arquivos.
 - E muito mais!
 
-📝 Contribuições:
+📝
 Contribuições são bem-vindas! Se você tiver alguma sugestão, melhoria ou correção, sinta-se à vontade para abrir uma pull request.
 
 📚 Outros recursos:
