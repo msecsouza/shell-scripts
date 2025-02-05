@@ -10,10 +10,10 @@ Aqui você vai encontrar scripts Bash que resolvem diversos problemas e tarefas,
 - Manipulação de arquivos.
 - E muito mais!
 
-📝 Contribuições
+📝 Contribuições:
 Contribuições são bem-vindas! Se você tiver alguma sugestão, melhoria ou correção, sinta-se à vontade para abrir uma pull request.
 
-📚 Outros recursos
+📚 Outros recursos:
 Se você está começando agora com Bash, aqui estão alguns links que podem ajudar:
 
 Canal do Blau Araujo 👉🏿 
