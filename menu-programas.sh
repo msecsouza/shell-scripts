@@ -26,7 +26,7 @@
 
 # Variáveis...
 
-OPCAO_INVALIDA="[Erro!] Escolha uma opção entre 1 e 4: tente novamente!"
+OPCAO_INVALIDA="[Erro!] Escolha uma opção entre 1 e 5: tente novamente!"
 EXIT_MENU="Saindo... até logo!"
 
 ##########################################################################################################################################
