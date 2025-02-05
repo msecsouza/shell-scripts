@@ -16,10 +16,10 @@ Contribuições são bem-vindas! Se você tiver alguma sugestão, melhoria ou co
 📚 Outros recursos
 Se você está começando agora com Bash, aqui estão alguns links que podem ajudar:
 
-Canal do Blau Araujo 👇🏿
+Canal do Blau Araujo 👉🏿
 https://www.youtube.com/@debxp
 
-Bash Scripting Tutorial 👇🏿
+Bash Scripting Tutorial 👉🏿
 https://www.shellscript.sh/
 
 VAMOS APRENDER JUNTOS!
