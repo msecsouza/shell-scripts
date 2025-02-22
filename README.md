@@ -16,5 +16,3 @@ E muito mais!
 Canal do Blau Araujo 👉🏿 https://www.youtube.com/@debxp
 
 Bash Scripting Tutorial 👉🏿 https://www.shellscript.sh/
-
-VAMOS APRENDER JUNTOS!
