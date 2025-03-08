@@ -7,7 +7,7 @@ Se precisar de ajuda com algum script específico, consulte os comentários dent
 Automatizar de tarefas adminitrativas do GNU Linux.
 Extração de dados do sistemas GNU Linux.
 Manipulação de arquivos.
-E muito mais!
+E muito mais!!!
 
 📝 Contribuições são bem-vindas! Se você tiver alguma sugestão, melhoria ou correção, sinta-se à vontade para abrir uma pull request.
 
